@@ -1,0 +1,7 @@
+/chris-test.cert.pem
+/chris-test.private.key
+/chris-test.public.key
+/root-CA.crt
+/start.sh
+/aws-iot-device-sdk-python
+/.vscode
